@@ -17,8 +17,6 @@ export const Presence = () => {
             opacity: 0.5,
             // scale: 0.5
         }
-
-
     })
 
 
